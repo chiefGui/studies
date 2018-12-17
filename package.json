@@ -1,0 +1,10 @@
+{
+  "name": "studies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typedoc": "^0.13.0",
+    "typescript": "^3.2.2"
+  }
+}
